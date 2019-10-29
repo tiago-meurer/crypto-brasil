@@ -1,6 +1,6 @@
-# cryptobrasil
+# Crypto Brasil
 
-A new Flutter project.
+Simple app made for tracking updated information about the most popular cryptocurrencies.
 
 ## Getting Started
 
